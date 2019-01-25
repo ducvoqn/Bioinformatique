@@ -1,4 +1,5 @@
 ## Bioinformatic
 # Usage 
-```python predict_rice.py
+```bash
+python predict_rice.py
 ```

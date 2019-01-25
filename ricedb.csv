@@ -1,0 +1,264 @@
+"Ontology","Role"
+"  TO:0000152 -Panicle number","Number of panicle on plant"
+"  TO:0000207 - plant height ","Number of panicle on plant"
+"  TO:0000401 - plant growth hormone sensitivity","Number of panicle on plant"
+"  TO:0002639 - shoot branching ","Number of panicle on plant"
+"  TO:0000401 - plant growth hormone sensitivity","Quality of a panicle - Grain's quality"
+"  TO:0002759 - grain number","Quality of a panicle - Grain's quality"
+"  TO:0000590 - grain weight ","Quality of a panicle - Grain's quality"
+"  TO:0000371 - yield trait","Quality of a panicle - Grain's quality"
+"  TO:0000440 - grain number per plant ","Quality of a panicle - Grain's quality"
+"  TO:0000382 - 1000-seed weight ","Quality of a panicle - Grain's quality"
+"  TO:0000397 - grain size ","Quality of a panicle - Grain's quality"
+"  TO:0002731 - grain length to width ratio ","Quality of a panicle - Grain's quality"
+"  TO:0002666 - seed phosphorus content ","Quality of a panicle - Grain's quality"
+"  TO:0000547 - primary branch number ","Quality of a panicle - Branch's quality"
+"  TO:0000401 - plant growth hormone sensitivity","Quality of a panicle - Branch's quality"
+"  TO:0000052 - primary branching of inflorescence","Quality of a panicle - Branch's quality"
+"  TO:0000040 - panicle length ","Quality of a panicle - Branch's quality"
+"  TO:0000089 - panicle type","Quality of a panicle - Panicle type"
+"  TO:0000050 - inflorescence branching ","Quality of a panicle - Inflorescene"
+"  TO:0000621 - inflorescence development trait ","Quality of a panicle - Inflorescene"
+"  TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"  TO:0000142 - secondary branching of inflorescence","Quality of a panicle - Inflorescene"
+"  TO:0002659 - pistil number ","Quality of a panicle - Inflorescene"
+"  TO:0000137 - days to heading","Quality of a panicle - Inflorescene"
+"  TO:0000447 - filled grain number ","Quality of a panicle - Inflorescene"
+"  TO:0000229 - photoperiod sensitivity ","Quality of a panicle - Inflorescene"
+"  TO:0000456 - spikelet number ","Quality of a panicle - Inflorescene"
+"  TO:0000436 - spikelet sterility","Quality of a panicle - Inflorescene"
+"  TO:0000501 - spikelet weight","Quality of a panicle - Inflorescene"
+"  TO:0000163 - auxin sensitivity","Quality of a panicle - Branch's quality"
+"  TO:0000163 - auxin sensitivity","Number of panicle on plant
+
+"
+"GO:0010014 - meristem initiation  PO:0000232 - axillary bud meristem 
+ 0000207 - plant height
+
+
+
+","Number of panicle on plant"
+"GO:0010014 - meristem initiation  PO:0000232 - axillary bud meristem  0000152 - panicle number ","Number of panicle on plant"
+"GO:0010014 - meristem initiation  PO:0000232 - axillary bud meristem  0000401 - plant growth hormone sensitivity","Number of panicle on plant"
+"GO:0010014 - meristem initiation  PO:0000232 - axillary bud meristem  0000163 - auxin sensitivity","Number of panicle on plant"
+"GO:0010014 - meristem initiation  PO:0000232 - axillary bud meristem  0002639 - shoot branching ","Number of panicle on plant"
+"GO:0010014 - meristem initiation  PO:0004709 - axillary bud 0000207 - plant height
+
+
+
+","Number of panicle on plant"
+"GO:0010014 - meristem initiation  PO:0004709 - axillary bud 0000152 - panicle number ","Number of panicle on plant"
+"GO:0010014 - meristem initiation  PO:0004709 - axillary bud 0000401 - plant growth hormone sensitivity","Number of panicle on plant"
+"GO:0010014 - meristem initiation  PO:0004709 - axillary bud 0000163 - auxin sensitivity","Number of panicle on plant"
+"GO:0010014 - meristem initiation  PO:0004709 - axillary bud 0002639 - shoot branching ","Number of panicle on plant"
+"GO:0007275 - multicellular organismal development  TO:0000456 - spikelet number 
+","Quality of a panicle - Inflorescene"
+"GO:0007275 - multicellular organismal development  TO:0000436 - spikelet sterility","Quality of a panicle - Inflorescene"
+"GO:0007275 - multicellular organismal development  TO:0000501 - spikelet weight ","Quality of a panicle - Inflorescene"
+"GO:0007275 - multicellular organismal development  TO:0000547 - primary branch number ","Quality of a panicle - Inflorescene"
+"GO:0007275 - multicellular organismal development  TO:0000052 - primary branching of inflorescence","Quality of a panicle - Inflorescene"
+"GO:0007275 - multicellular organismal development  TO:0000152 - panicle number ","Number of panicle on plant"
+"GO:0007275 - multicellular organismal development  TO:0002639 - shoot branching ","Number of panicle on plant"
+"GO:0007275 - multicellular organismal development  TO:0000050 - inflorescence branching 
+
+
+
+
+","Quality of a panicle - Inflorescene"
+"GO:0007275 - multicellular organismal development  TO:0000621 - inflorescence development trait ","Quality of a panicle - Inflorescene"
+"GO:0007275 - multicellular organismal development  TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"GO:0007275 - multicellular organismal development  TO:0000142 - secondary branching of inflorescence","Quality of a panicle - Inflorescene"
+"GO:0007275 - multicellular organismal development  TO:0002659 - pistil number ","Quality of a panicle - Inflorescene"
+"GO:0009733 - response to auxin stimulus   TO:0000163 - auxin sensitivity","Number of panicle on plant
+
+"
+"GO:0009733 - response to auxin stimulus   TO:0000163 - auxin sensitivity","Quality of a panicle - Branch's quality"
+"GO:0009735 - response to cytokinin stimulus   TO:0000167 - cytokinin sensitivity ","Number of panicle on plant
+
+"
+"GO:0009735 - response to cytokinin stimulus   TO:0000167 - cytokinin sensitivity ","Quality of a panicle - Branch's quality"
+"GO:0048497 - maintenance of floral organ identity 
+ PO:0001083 - inflorescence development stage 
+
+ TO:0000050 - inflorescence branching 
+
+
+
+","Quality of a panicle - Inflorescene"
+"GO:0048497 - maintenance of floral organ identity 
+ PO:0001083 - inflorescence development stage 
+
+ TO:0000621 - inflorescence development trait ","Quality of a panicle - Inflorescene"
+"GO:0048497 - maintenance of floral organ identity 
+ PO:0001083 - inflorescence development stage 
+
+ TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"GO:0048497 - maintenance of floral organ identity 
+ PO:0001083 - inflorescence development stage 
+
+ TO:0000142 - secondary branching of inflorescence","Quality of a panicle - Inflorescene"
+"GO:0048497 - maintenance of floral organ identity 
+ PO:0009046 - flower  TO:0000050 - inflorescence branching 
+
+
+
+","Quality of a panicle - Inflorescene"
+"GO:0048497 - maintenance of floral organ identity 
+ PO:0009046 - flower  TO:0000621 - inflorescence development trait ","Quality of a panicle - Inflorescene"
+"GO:0048497 - maintenance of floral organ identity 
+ PO:0009046 - flower  TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"GO:0048497 - maintenance of floral organ identity 
+ PO:0009046 - flower  TO:0000142 - secondary branching of inflorescence","Quality of a panicle - Inflorescene"
+"GO:0048497 - maintenance of floral organ identity 
+ PO:0009049 - inflorescence  TO:0000050 - inflorescence branching 
+
+
+
+","Quality of a panicle - Inflorescene"
+"GO:0048497 - maintenance of floral organ identity 
+ PO:0009049 - inflorescence  TO:0000621 - inflorescence development trait ","Quality of a panicle - Inflorescene"
+"GO:0048497 - maintenance of floral organ identity 
+ PO:0009049 - inflorescence  TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"GO:0048497 - maintenance of floral organ identity 
+ PO:0009049 - inflorescence  TO:0000142 - secondary branching of inflorescence","Quality of a panicle - Inflorescene"
+"GO:0010582 - floral meristem determinacy  PO:0001083 - inflorescence development stage 
+
+ TO:0000050 - inflorescence branching 
+
+
+
+","Quality of a panicle - Inflorescene"
+"GO:0010582 - floral meristem determinacy  PO:0001083 - inflorescence development stage 
+
+ TO:0000621 - inflorescence development trait ","Quality of a panicle - Inflorescene"
+"GO:0010582 - floral meristem determinacy  PO:0001083 - inflorescence development stage 
+
+ TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"GO:0010582 - floral meristem determinacy  PO:0001083 - inflorescence development stage 
+
+ TO:0000142 - secondary branching of inflorescence","Quality of a panicle - Inflorescene"
+"GO:0010582 - floral meristem determinacy  PO:0009046 - flower  TO:0000050 - inflorescence branching 
+
+
+
+","Quality of a panicle - Inflorescene"
+"GO:0010582 - floral meristem determinacy  PO:0009046 - flower  TO:0000621 - inflorescence development trait ","Quality of a panicle - Inflorescene"
+"GO:0010582 - floral meristem determinacy  PO:0009046 - flower  TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"GO:0010582 - floral meristem determinacy  PO:0009046 - flower  TO:0000142 - secondary branching of inflorescence","Quality of a panicle - Inflorescene"
+"GO:0010582 - floral meristem determinacy  PO:0009049 - inflorescence  TO:0000050 - inflorescence branching 
+
+
+
+","Quality of a panicle - Inflorescene"
+"GO:0010582 - floral meristem determinacy  PO:0009049 - inflorescence  TO:0000621 - inflorescence development trait ","Quality of a panicle - Inflorescene"
+"GO:0010582 - floral meristem determinacy  PO:0009049 - inflorescence  TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"GO:0010582 - floral meristem determinacy  PO:0009049 - inflorescence  TO:0000142 - secondary branching of inflorescence","Quality of a panicle - Inflorescene"
+"GO:0010093 - specification of floral organ identity  PO:0001083 - inflorescence development stage 
+
+ TO:0000050 - inflorescence branching 
+
+
+
+","Quality of a panicle - Inflorescene"
+"GO:0010093 - specification of floral organ identity  PO:0001083 - inflorescence development stage 
+
+ TO:0000621 - inflorescence development trait ","Quality of a panicle - Inflorescene"
+"GO:0010093 - specification of floral organ identity  PO:0001083 - inflorescence development stage 
+
+ TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"GO:0010093 - specification of floral organ identity  PO:0001083 - inflorescence development stage 
+
+ TO:0000142 - secondary branching of inflorescence","Quality of a panicle - Inflorescene"
+"GO:0010093 - specification of floral organ identity  PO:0009046 - flower  TO:0000050 - inflorescence branching 
+
+
+
+","Quality of a panicle - Inflorescene"
+"GO:0010093 - specification of floral organ identity  PO:0009046 - flower  TO:0000621 - inflorescence development trait ","Quality of a panicle - Inflorescene"
+"GO:0010093 - specification of floral organ identity  PO:0009046 - flower  TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"GO:0010093 - specification of floral organ identity  PO:0009046 - flower  TO:0000142 - secondary branching of inflorescence","Quality of a panicle - Inflorescene"
+"GO:0010093 - specification of floral organ identity  PO:0009049 - inflorescence  TO:0000050 - inflorescence branching 
+
+
+
+","Quality of a panicle - Inflorescene"
+"GO:0010093 - specification of floral organ identity  PO:0009049 - inflorescence  TO:0000621 - inflorescence development trait ","Quality of a panicle - Inflorescene"
+"GO:0010093 - specification of floral organ identity  PO:0009049 - inflorescence  TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"GO:0010093 - specification of floral organ identity  PO:0009049 - inflorescence  TO:0000142 - secondary branching of inflorescence","Quality of a panicle - Inflorescene"
+"GO:0030154 - cell differentiation  PO:0009049 - inflorescence 
+ TO:0000050 - inflorescence branching
+
+
+ 
+","Quality of a panicle - Inflorescene"
+"GO:0030154 - cell differentiation  PO:0009049 - inflorescence 
+ TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"GO:0030154 - cell differentiation  PO:0009049 - inflorescence 
+ TO:0000371 - yield trait ","Quality of a panicle - Inflorescene"
+"GO:0030154 - cell differentiation  PO:0009049 - inflorescence 
+ TO:0000499 - flower anatomy and morphology trait","Quality of a panicle - Inflorescene"
+"GO:0030154 - cell differentiation  PO:0009049 - inflorescence 
+ TO:0000456 - spikelet number ","Quality of a panicle - Inflorescene"
+"GO:0030154 - cell differentiation  PO:0009082 - spikelet floret  TO:0000050 - inflorescence branching
+
+
+ 
+","Quality of a panicle - Inflorescene"
+"GO:0030154 - cell differentiation  PO:0009082 - spikelet floret  TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"GO:0030154 - cell differentiation  PO:0009082 - spikelet floret  TO:0000371 - yield trait ","Quality of a panicle - Inflorescene"
+"GO:0030154 - cell differentiation  PO:0009082 - spikelet floret  TO:0000499 - flower anatomy and morphology trait","Quality of a panicle - Inflorescene"
+"GO:0030154 - cell differentiation  PO:0009082 - spikelet floret  TO:0000456 - spikelet number ","Quality of a panicle - Inflorescene"
+"GO:0030154 - cell differentiation   TO:0002759 - grain number ","Quality of a panicle - Grain's quality"
+"GO:0030154 - cell differentiation   TO:0002639 - shoot branching ","Number of panicle on plant"
+"GO:0010229 - inflorescence development PO:0000230 - inflorescence meristem 
+ TO:0000050 - inflorescence branching 
+
+
+","Quality of a panicle - Inflorescene"
+"GO:0010229 - inflorescence development PO:0000230 - inflorescence meristem 
+ TO:0000621 - inflorescence development trait","Quality of a panicle - Inflorescene"
+"GO:0010229 - inflorescence development PO:0000230 - inflorescence meristem 
+ TO:0000142 - secondary branching of inflorescence","Quality of a panicle - Inflorescene"
+"GO:0010229 - inflorescence development PO:0000230 - inflorescence meristem 
+ TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"GO:0010229 - inflorescence development PO:0001083 - inflorescence development stage  TO:0000050 - inflorescence branching 
+
+
+","Quality of a panicle - Inflorescene"
+"GO:0010229 - inflorescence development PO:0001083 - inflorescence development stage  TO:0000621 - inflorescence development trait","Quality of a panicle - Inflorescene"
+"GO:0010229 - inflorescence development PO:0001083 - inflorescence development stage  TO:0000142 - secondary branching of inflorescence","Quality of a panicle - Inflorescene"
+"GO:0010229 - inflorescence development PO:0001083 - inflorescence development stage  TO:0000052 - primary branching of inflorescence ","Quality of a panicle - Inflorescene"
+"GO:0009648 - photoperiodism 
+   TO:0002759 - grain number ","Quality of a panicle - Grain's quality
+"
+"GO:0009648 - photoperiodism 
+   TO:0000137 - days to heading","Quality of a panicle- Inflorescene"
+"GO:0009648 - photoperiodism 
+   TO:0000050 - inflorescence branching","Quality of a panicle- Inflorescene"
+"GO:0009648 - photoperiodism 
+   TO:0000557 - secondary branch number ","Quality of a panicle- Inflorescene"
+"GO:0009648 - photoperiodism 
+   TO:0000229 - photoperiod sensitivity ","Quality of a panicle- Inflorescene"
+"GO:0009648 - photoperiodism 
+   TO:0000447 - filled grain number ","Quality of a panicle - Grain's quality
+"
+"GO:0048573 - photoperiodism, flowering  TO:0002759 - grain number ","Quality of a panicle - Grain's quality
+"
+"GO:0048573 - photoperiodism, flowering  TO:0000137 - days to heading","Quality of a panicle- Inflorescene"
+"GO:0048573 - photoperiodism, flowering  TO:0000050 - inflorescence branching","Quality of a panicle- Inflorescene"
+"GO:0048573 - photoperiodism, flowering  TO:0000557 - secondary branch number ","Quality of a panicle- Inflorescene"
+"GO:0048573 - photoperiodism, flowering  TO:0000229 - photoperiod sensitivity ","Quality of a panicle- Inflorescene"
+"GO:0048573 - photoperiodism, flowering  TO:0000447 - filled grain number ","Quality of a panicle - Grain's quality
+"
+"GO:0009648 - photoperiodism 
+   TO:0000229 - photoperiod sensitivity ","Quality of a panicle - Grain's quality
+"
+"GO:0048573 - photoperiodism, flowering  TO:0000229 - photoperiod sensitivity ","Quality of a panicle- Inflorescene"
+"GO:0010091 - trichome branching  TO:0000346 - tiller number 
+","Number of panicle on plant"
+"GO:0010091 - trichome branching  TO:0000152 - panicle number ","Number of panicle on plant"
+"GO:0006793 - phosphorus metabolic process  PO:0009010 - seed  TO:0002666 - seed phosphorus content ","Quality of a panicle - Grain's quality"
+"GO:0048873 - homeostasis of number of cells within a tissue  TO:0000440 - grain number per plant 
+","Quality of a panicle - Grain's quality"
+"GO:0048873 - homeostasis of number of cells within a tissue  TO:0000547 - primary branch number ","Quality of a panicle - Grain's quality"
+"GO:0048873 - homeostasis of number of cells within a tissue  TO:0000557 - secondary branch number ","Quality of a panicle - Grain's quality"

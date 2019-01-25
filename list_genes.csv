@@ -1,0 +1,1347 @@
+"Ontology","Rap ID"
+"GO:0000028 - ribosomal small subunit assembly
+GO:0003729 - mRNA binding
+GO:0003735 - structural constituent of ribosome
+GO:0006412 - translation
+GO:0009414 - response to water deprivation
+GO:0009651 - response to salt stress
+GO:0009737 - response to abscisic acid stimulus
+GO:0019843 - rRNA binding
+GO:0022627 - cytosolic small ribosomal subunit
+GO:0042542 - response to hydrogen peroxide
+GO:0050832 - defense response to fungus TO:0000615 - abscisic acid sensitivity
+TO:0000276 - drought tolerance
+TO:0006001 - salt tolerance
+TO:0002657 - oxidative stress
+TO:0000255 - sheath blight disease resistance ","Os01g0100700
+"
+"GO:0005737 - cytoplasm
+GO:0005634 - nucleus
+GO:0003677 - DNA binding  PO:0009089 - endosperm","Os01g0102400
+"
+"GO:0005524 - ATP binding
+GO:0004765 - shikimate kinase activity  ","Os01g0102600
+"
+"GO:0005737 - cytoplasm
+GO:0006099 - tricarboxylic acid cycle
+GO:0008964 - phosphoenolpyruvate carboxylase activity
+GO:0015977 - carbon utilization by fixation of carbon dioxide  PO:0009066 - anther 
+PO:0025281 - pollen","Os01g0110700
+"
+"GO:0034224 - cellular response to zinc ion starvation
+GO:0010106 - cellular response to iron ion starvation
+GO:0034756 - regulation of iron ion transport
+GO:0016036 - cellular response to phosphate starvation TO:0000102 - phosphorus sensitivity ","Os01g0110100
+"
+"GO:0003723 - RNA binding
+GO:0003735 - structural constituent of ribosome
+GO:0006412 - translation
+GO:0009408 - response to heat
+GO:0009409 - response to cold
+GO:0009414 - response to water deprivation
+GO:0009751 - response to salicylic acid stimulus
+GO:0009753 - response to jasmonic acid stimulus
+GO:0022625 - cytosolic large ribosomal subunit
+GO:0042273 - ribosomal large subunit biogenesis
+GO:0042542 - response to hydrogen peroxide
+GO:0042742 - defense response to bacterium TO:0000172 - jasmonic acid sensitivity
+TO:0000175 - bacterial blight disease resistance
+TO:0000259 - heat tolerance
+TO:0000276 - drought tolerance
+TO:0000303 - cold tolerance
+TO:0002657 - oxidative stress PO:0009006 - shoot system 
+PO:0009089 - endosperm 
+PO:0020031 - radicle","Os01g0140500
+"
+"GO:0003677 - DNA binding
+GO:0003700 - transcription factor activity
+GO:0005634 - nucleus
+GO:0006351 - transcription, DNA-dependent  ","Os01g0140700
+"
+"GO:0003677 - DNA binding
+GO:0003700 - transcription factor activity
+GO:0005634 - nucleus
+GO:0006351 - transcription, DNA-dependent
+GO:0009651 - response to salt stress
+GO:0009741 - response to brassinosteroid stimulus
+GO:0009910 - negative regulation of flower development
+GO:0048366 - leaf development
+GO:0048527 - lateral root development
+GO:0048573 - photoperiodism, flowering TO:0006001 - salt tolerance ","Os01g0141000
+"
+"GO:0005524 - ATP binding
+GO:0005634 - nucleus
+GO:0007033 - vacuole organization  ","Os01g0141100
+"
+"GO:0005634 - nucleus
+GO:0006281 - DNA repair
+GO:0010224 - response to UV-B  ","Os01g0141700
+"
+"GO:0048653 - anther development
+GO:0009901 - anther dehiscence
+GO:0004499 - flavin-containing monooxygenase activity
+GO:0009851 - auxin biosynthetic process
+GO:0009737 - response to abscisic acid stimulus TO:0000615 - abscisic acid sensitivity
+TO:0002672 - auxin content PO:0001004 - anther development stage 
+PO:0009066 - anther","Os01g0224700
+"
+"GO:0022857 - transmembrane transporter activity
+GO:0005886 - plasma membrane
+GO:0006810 - transport
+GO:0016021 - integral to membrane  ","Os01g0297700
+"
+"GO:0042742 - defense response to bacterium
+GO:0005524 - ATP binding
+GO:0050832 - defense response to fungus
+GO:0048316 - seed development
+GO:0004672 - protein kinase activity TO:0000653 - seed development trait
+TO:0000175 - bacterial blight disease resistance
+TO:0000074 - blast disease PO:0001170 - seed development stage 
+PO:0009010 - seed","Os01g0310800
+"
+"GO:0035335 - peptidyl-tyrosine dephosphorylation
+GO:0008138 - protein tyrosine/serine/threonine phosphatase activity
+GO:0009737 - response to abscisic acid stimulus
+GO:0010119 - regulation of stomatal movement
+GO:0004725 - protein tyrosine phosphatase activity
+GO:0010468 - regulation of gene expression
+GO:0016773 - phosphotransferase activity, alcohol group as acceptor
+GO:0043622 - cortical microtubule organization
+GO:0005737 - cytoplasm  ","Os01g0311500
+"
+"GO:0006200 - ATP catabolic process
+GO:0005524 - ATP binding
+GO:0016020 - membrane
+GO:0016887 - ATPase activity  ","Os01g0342700
+"
+"GO:0033549 - MAP kinase phosphatase activity
+GO:0035335 - peptidyl-tyrosine dephosphorylation
+GO:0008138 - protein tyrosine/serine/threonine phosphatase activity
+GO:0008270 - zinc ion binding
+GO:0016773 - phosphotransferase activity, alcohol group as acceptor
+GO:0004725 - protein tyrosine phosphatase activity
+GO:0005737 - cytoplasm  PO:0009066 - anther","Os01g0347000
+"
+"GO:0006364 - rRNA processing
+GO:0009414 - response to water deprivation
+GO:0070566 - adenylyltransferase activity TO:0000276 - drought tolerance ","Os01g0672700
+"
+"GO:0006974 - response to DNA damage stimulus
+GO:0009739 - response to gibberellin stimulus
+GO:0016881 - acid-amino acid ligase activity
+GO:0048316 - seed development TO:0000166 - gibberellic acid sensitivity
+TO:0000653 - seed development trait PO:0001170 - seed development stage","Os01g0673600
+"
+"GO:0003700 - transcription factor activity
+GO:0006952 - defense response
+GO:0009651 - response to salt stress
+GO:0042742 - defense response to bacterium
+GO:0043565 - sequence-specific DNA binding TO:0000175 - bacterial blight disease resistance
+TO:0006001 - salt tolerance ","Os01g0820900
+"
+"GO:0003700 - transcription factor activity
+GO:0006952 - defense response
+GO:0009409 - response to cold
+GO:0009753 - response to jasmonic acid stimulus
+GO:0042742 - defense response to bacterium
+GO:0043565 - sequence-specific DNA binding TO:0000172 - jasmonic acid sensitivity
+TO:0000175 - bacterial blight disease resistance
+TO:0000303 - cold tolerance ","Os01g0821300
+"
+"GO:0046274 - lignin catabolic process
+GO:0048046 - apoplast
+GO:0005507 - copper ion binding  ","Os01g0842400
+"
+"GO:0005507 - copper ion binding
+GO:0046274 - lignin catabolic process
+GO:0048046 - apoplast  ","Os01g0842500
+"
+"GO:0005743 - mitochondrial inner membrane
+GO:0045041 - protein import into mitochondrial intermembrane space
+GO:0042407 - cristae formation
+GO:0034982 - mitochondrial protein processing
+GO:0016021 - integral to membrane
+GO:0009535 - chloroplast thylakoid membrane
+GO:0008270 - zinc ion binding
+GO:0008237 - metallopeptidase activity
+GO:0008053 - mitochondrial fusion
+GO:0004176 - ATP-dependent peptidase activity
+GO:0004222 - metalloendopeptidase activity
+GO:0005524 - ATP binding
+GO:0006461 - protein complex assembly  ","Os01g0842600
+"
+"GO:0003700 - transcription factor activity
+GO:0006952 - defense response
+GO:0042742 - defense response to bacterium
+GO:0043565 - sequence-specific DNA binding TO:0000175 - bacterial blight disease resistance ","Os01g0842801
+"
+"GO:0046274 - lignin catabolic process
+GO:0005507 - copper ion binding
+GO:0009414 - response to water deprivation
+GO:0005739 - mitochondrion
+GO:0016722 - oxidoreductase activity, oxidizing metal ions
+GO:0048046 - apoplast TO:0000276 - drought tolerance ","Os01g0843800
+"
+"GO:0003755 - peptidyl-prolyl cis-trans isomerase activity
+GO:0005528 - FK506 binding
+GO:0006457 - protein folding
+GO:0016020 - membrane  ","Os01g0844300
+"
+"GO:0015035 - protein disulfide oxidoreductase activity
+GO:0034975 - protein folding in endoplasmic reticulum
+GO:0003756 - protein disulfide isomerase activity
+GO:0009055 - electron carrier activity
+GO:0006662 - glycerol ether metabolic process
+GO:0005788 - endoplasmic reticulum lumen
+GO:0045454 - cell redox homeostasis  ","Os02g0100100
+"
+"GO:0046872 - metal ion binding  ","Os02g0100900
+"
+"GO:0009734 - auxin mediated signaling pathway
+GO:0016021 - integral to membrane TO:0000163 - auxin sensitivity ","Os02g0101000
+"
+"GO:0016788 - hydrolase activity, acting on ester bonds
+GO:0006629 - lipid metabolic process
+GO:0005576 - extracellular region  ","Os02g0101400
+"
+"GO:0016616 - oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0051287 - NAD or NADH binding  ","Os02g0101500
+"
+"GO:0045454 - cell redox homeostasis
+GO:0009055 - electron carrier activity
+GO:0015035 - protein disulfide oxidoreductase activity  ","Os02g0102000
+"
+"GO:0016021 - integral to membrane  ","Os02g0102200
+"
+"GO:0030611 - arsenate reductase activity
+GO:0046685 - response to arsenic
+GO:0005737 - cytoplasm
+GO:0005634 - nucleus
+GO:0015700 - arsenite transport TO:0000465 - mineral and ion content related trait PO:0000256 - root hair cell 
+PO:0005679 - epidermis 
+PO:0025261 - pericycle cell","Os02g0102300
+"
+"GO:0030529 - ribonucleoprotein complex
+GO:0019013 - viral nucleocapsid  ","Os02g0102700
+"
+"GO:0008270 - zinc ion binding
+GO:0009055 - electron carrier activity
+GO:0009642 - response to light intensity
+GO:0009808 - lignin metabolic process
+GO:0009809 - lignin biosynthetic process
+GO:0009834 - secondary cell wall biogenesis
+GO:0020037 - heme binding
+GO:0022900 - electron transport chain
+GO:0045551 - cinnamyl-alcohol dehydrogenase activity
+GO:0055114 - oxidation reduction TO:0000011 - nitrogen sensitivity
+TO:0000051 - stem strength
+TO:0000264 - lemma and palea color
+TO:0000426 - internode color
+TO:0000460 - light intensity sensitivity
+TO:0000732 - lignin monomer content
+TO:0000733 - lignin biosynthesis trait
+TO:0000190 or TO:0000426 - ""seed coat color"" or ""internode color"" PO:0000036 - leaf vascular system 
+PO:0000039 - shoot axis vascular system 
+PO:0003011 - root vascular system 
+PO:0009005 - root 
+PO:0009010 - seed 
+PO:0009049 - inflorescence 
+PO:0020104 - leaf sheath 
+PO:0020142 - stem internode","Os02g0187800
+"
+"GO:0008152 - metabolic process
+GO:0043231 - intracellular membrane-bounded organelle
+GO:0080043 - quercetin 3-O-glucosyltransferase activity
+GO:0080044 - quercetin 7-O-glucosyltransferase activity  ","Os02g0188000
+"
+"  PO:0009066 - anther","Os02g0188500
+"
+"GO:0009909 - regulation of flower development
+GO:0031047 - gene silencing by RNA
+GO:0005634 - nucleus TO:0006012 - carpel anatomy and morphology trait
+TO:0006022 - floral organ development trait PO:0007615 - flower development stage 
+PO:0020003 - plant ovule 
+PO:0025477 - floral organ primordium 
+PO:0009072 - plant ovary 
+PO:0009073 - stigma 
+PO:0009051 - spikelet","Os02g0293300
+"
+"GO:0043161 - proteasomal ubiquitin-dependent protein catabolic process
+GO:0016874 - ligase activity
+GO:0008270 - zinc ion binding
+GO:0007275 - multicellular organismal development
+GO:0042787 - protein ubiquitination during ubiquitin-dependent protein catabolic process
+GO:0005737 - cytoplasm
+GO:0005634 - nucleus  ","Os02g0293400
+"
+"GO:0010229 - inflorescence development TO:0000621 - inflorescence development trait PO:0001083 - inflorescence development stage","Os02g0586900
+"
+"GO:0006355 - regulation of transcription, DNA-dependent
+GO:0003677 - DNA binding  ","Os02g0623300
+"
+"GO:0003677 - DNA binding
+GO:0005634 - nucleus
+GO:0006355 - regulation of transcription, DNA-dependent
+GO:0007275 - multicellular organismal development
+GO:0009299 - mRNA transcription
+GO:0009416 - response to light stimulus  ","Os02g0623400
+"
+"GO:0009414 - response to water deprivation
+GO:0009685 - gibberellin metabolic process
+GO:0046687 - response to chromate
+GO:0046689 - response to mercury ion TO:0000276 - drought tolerance
+TO:0000034 - chromium sensitivity ","Os02g0630300
+"
+"GO:0005887 - integral to plasma membrane
+GO:0005364 - maltose:hydrogen symporter activity
+GO:0008519 - ammonium transmembrane transporter activity
+GO:0015293 - symporter activity
+GO:0015770 - sucrose transport
+GO:0016020 - membrane
+GO:0055085 - transmembrane transport
+GO:0008515 - sucrose transmembrane transporter activity
+GO:0009846 - pollen germination
+GO:0005985 - sucrose metabolic process
+GO:0008506 - sucrose:hydrogen symporter activity
+GO:0042950 - salicin transmembrane transporter activity TO:0000401 - plant growth hormone sensitivity
+TO:0000333 - sugar content
+TO:0000207 - plant height
+TO:0002661 - seed maturation PO:0000003 - whole plant","Os03g0170900
+"
+"GO:0006355 - regulation of transcription, DNA-dependent
+GO:0043565 - sequence-specific DNA binding
+GO:0003700 - transcription factor activity
+GO:0005634 - nucleus
+GO:0006350 - transcription  ","Os03g0170600
+"
+"GO:0010086 - embryonic root morphogenesis
+GO:0009826 - unidimensional cell growth
+GO:0009742 - brassinosteroid mediated signaling
+GO:0005773 - vacuole
+GO:0009640 - photomorphogenesis
+GO:0048510 - regulation of timing of transition from vegetative to reproductive phase TO:0000734 - grain length
+TO:0000397 - grain size
+TO:0000590 - grain weight ","Os03g0171300
+"
+"GO:0005887 - integral to plasma membrane
+GO:0005364 - maltose:hydrogen symporter activity
+GO:0008519 - ammonium transmembrane transporter activity
+GO:0015293 - symporter activity
+GO:0015770 - sucrose transport
+GO:0016020 - membrane
+GO:0055085 - transmembrane transport
+GO:0008515 - sucrose transmembrane transporter activity
+GO:0009846 - pollen germination
+GO:0005985 - sucrose metabolic process
+GO:0008506 - sucrose:hydrogen symporter activity
+GO:0042950 - salicin transmembrane transporter activity TO:0000401 - plant growth hormone sensitivity
+TO:0000333 - sugar content
+TO:0000207 - plant height
+TO:0002661 - seed maturation PO:0000003 - whole plant","Os03g0170900
+"
+"GO:0046872 - metal ion binding
+GO:0003993 - acid phosphatase activity  ","Os03g0214000
+"
+"GO:0005634 - nucleus
+GO:0009737 - response to abscisic acid stimulus
+GO:0007165 - signal transduction
+GO:0009414 - response to water deprivation
+GO:0009788 - negative regulation of abscisic acid mediated signaling TO:0000615 - abscisic acid sensitivity
+TO:0000276 - drought tolerance ","Os03g0214200
+"
+"GO:0008541 - proteasome regulatory particle, lid subcomplex
+GO:0043248 - proteasome assembly
+GO:0006511 - ubiquitin-dependent protein catabolic process
+GO:0005829 - cytosol
+GO:0005634 - nucleus
+GO:0005198 - structural molecule activity
+GO:0000502 - proteasome complex  ","Os03g0214600
+"
+"GO:0003677 - DNA binding
+GO:0005662 - DNA replication factor A complex
+GO:0006260 - DNA replication
+GO:0006281 - DNA repair
+GO:0006310 - DNA recombination
+GO:0009739 - response to gibberellin stimulus
+GO:0009790 - embryonic development
+GO:0010224 - response to UV-B
+GO:0010332 - response to gamma radiation
+GO:0030912 - response to deep water
+GO:0046872 - metal ion binding  ","Os03g0214100
+"
+"GO:0003677 - DNA binding
+GO:0005634 - nucleus
+GO:0008270 - zinc ion binding
+GO:0010022 - meristem determinacy
+GO:0010073 - meristem maintenance
+GO:0030154 - cell differentiation
+GO:0048366 - leaf development
+GO:0048440 - carpel development TO:0000499 - flower anatomy and morphology trait
+TO:0000206 - leaf angle
+TO:0000124 - flag leaf angle
+TO:0002718 - awn anatomy and morphology trait
+TO:0000655 - leaf development trait
+TO:0006017 - meristem identity
+TO:0000472 - vascular bundle number PO:0000019 - gynoecium primordium 
+PO:0000229 - flower meristem 
+PO:0009009 - plant embryo 
+PO:0009025 - vascular leaf 
+PO:0009029 - stamen 
+PO:0009030 - carpel 
+PO:0009037 - lemma 
+PO:0009082 - spikelet floret","Os03g0215200
+"
+"GO:0030154 - cell differentiation
+GO:0045449 - regulation of transcription
+GO:0042127 - regulation of cell proliferation
+GO:0043565 - sequence-specific DNA binding
+GO:0007275 - multicellular organismal development
+GO:0003700 - transcription factor activity
+GO:0006350 - transcription
+GO:0009908 - flower development
+GO:0010093 - specification of floral organ identity
+GO:0001708 - cell fate specification
+GO:0003677 - DNA binding
+GO:0010076 - maintenance of floral meristem identity
+GO:0005515 - protein binding
+GO:0005634 - nucleus
+GO:0048437 - floral organ development
+GO:0045595 - regulation of cell differentiation
+GO:0006355 - regulation of transcription, DNA-dependent
+GO:0010582 - floral meristem determinacy
+GO:0010229 - inflorescence development TO:0000207 - plant height
+TO:0000437 - male sterility
+TO:0000657 - spikelet anatomy and morphology trait
+TO:0000499 - flower anatomy and morphology trait
+TO:0000614 - lemma shape
+TO:0000436 - spikelet sterility
+TO:0000344 - days to flower
+TO:0000079 - lemma and palea anatomy and morphology trait
+TO:0001000 - glume cover
+TO:0000089 - panicle type
+TO:0000225 - stamen number
+TO:0000373 - inflorescence anatomy and morphology trait
+TO:0000377 - cooked grain elongation
+TO:0000670 - floret number
+TO:0000223 - pistil anatomy and morphology trait
+TO:0000650 - lemma length
+TO:0000417 - lemma and palea pubescence
+TO:0000245 - pollen free
+TO:0000622 - flower development trait
+TO:0000040 - panicle length
+TO:0002616 - flowering time
+TO:0000734 - grain length
+TO:0000396 - grain yield
+TO:0000621 - inflorescence development trait
+TO:0000397 - grain size
+TO:0000162 - seed quality
+TO:0002730 - grain shape
+TO:0000266 - chalky endosperm PO:0000229 - flower meristem 
+PO:0009039 - glume 
+PO:0009046 - flower 
+PO:0009049 - inflorescence 
+PO:0009051 - spikelet 
+PO:0001049 - lodicule development stage 
+PO:0001048 - palea development stage 
+PO:0001047 - lemma development stage 
+PO:0006000 - caryopsis hull 
+PO:0009062 - gynoecium 
+PO:0009029 - stamen 
+PO:0009010 - seed 
+PO:0007615 - flower development stage 
+PO:0009037 - lemma 
+PO:0009036 - lodicule 
+PO:0009038 - palea 
+PO:0001170 - seed development stage 
+PO:0001083 - inflorescence development stage","Os03g0215400
+"
+"GO:0016021 - integral to membrane
+GO:0022891 - substrate-specific transmembrane transporter activity  ","Os03g0218400
+"
+"GO:0004784 - superoxide dismutase activity
+GO:0019430 - removal of superoxide radicals
+GO:0005777 - peroxisome
+GO:0005773 - vacuole
+GO:0005507 - copper ion binding
+GO:0008270 - zinc ion binding
+GO:0009651 - response to salt stress TO:0006001 - salt tolerance ","Os03g0219200
+"
+"GO:0003700 - transcription factor activity
+GO:0006952 - defense response
+GO:0009409 - response to cold
+GO:0009414 - response to water deprivation
+GO:0009651 - response to salt stress
+GO:0009737 - response to abscisic acid stimulus
+GO:0042742 - defense response to bacterium
+GO:0043565 - sequence-specific DNA binding TO:0000175 - bacterial blight disease resistance
+TO:0000276 - drought tolerance
+TO:0000303 - cold tolerance
+TO:0000615 - abscisic acid sensitivity
+TO:0006001 - salt tolerance ","Os03g0335200
+"
+"GO:0005509 - calcium ion binding
+GO:0006896 - Golgi to vacuole transport
+GO:0006623 - protein targeting to vacuole
+GO:0005783 - endoplasmic reticulum
+GO:0005886 - plasma membrane
+GO:0009940 - amino-terminal vacuolar sorting propeptide binding TO:0000432 - temperature response trait ","Os03g0335300
+"
+"GO:0005576 - extracellular region
+GO:0005618 - cell wall
+GO:0009664 - plant-type cell wall organization
+GO:0016020 - membrane  ","Os03g0336400
+"
+"GO:0009408 - response to heat
+GO:0009409 - response to cold
+GO:0009651 - response to salt stress
+GO:0009737 - response to abscisic acid stimulus TO:0000303 - cold tolerance
+TO:0000615 - abscisic acid sensitivity
+TO:0006001 - salt tolerance
+TO:0000259 - heat tolerance ","Os03g0336700
+"
+"GO:0005634 - nucleus  PO:0009049 - inflorescence","Os03g0336900
+"
+"GO:0000209 - protein polyubiquitination
+GO:0042787 - protein ubiquitination during ubiquitin-dependent protein catabolic process
+GO:0008270 - zinc ion binding
+GO:0043161 - proteasomal ubiquitin-dependent protein catabolic process  ","Os03g0351800
+"
+"GO:0042254 - ribosome biogenesis
+GO:0003924 - GTPase activity
+GO:0005730 - nucleolus  ","Os03g0352400
+"
+"GO:0003677 - DNA binding
+GO:0005524 - ATP binding
+GO:0006281 - DNA repair
+GO:0006338 - chromatin remodeling
+GO:0006351 - transcription, DNA-dependent
+GO:0009845 - seed germination
+GO:0009846 - pollen germination
+GO:0009860 - pollen tube growth
+GO:0010371 - regulation of gibberellin biosynthetic process
+GO:0016887 - ATPase activity
+GO:0031011 - Ino80 complex
+GO:0048608 - reproductive structure development
+GO:0051510 - regulation of unidimensional cell growth
+GO:2000028 - regulation of photoperiodism, flowering TO:0002675 - gibberellic acid content
+TO:0000207 - plant height
+TO:0002616 - flowering time PO:0007057 - 0 seed germination stage","Os03g0352450/Os03g0352500 
+"
+"GO:0009824 - adenylate dimethylallyltransferase activity
+GO:0005524 - ATP binding
+GO:0005737 - cytoplasm
+GO:0008033 - tRNA processing
+GO:0016740 - transferase activity
+GO:0009691 - cytokinin biosynthetic process TO:0000011 - nitrogen sensitivity
+TO:0000456 - spikelet number ","Os03g0356900
+"
+"GO:0051017 - actin filament bundle formation
+GO:0032970 - regulation of actin filament-based process
+GO:0032956 - regulation of actin cytoskeleton organization
+GO:0016049 - cell growth
+GO:0009630 - gravitropism
+GO:0005884 - actin filament
+GO:0051014 - actin filament severing TO:0002672 - auxin content
+TO:0000432 - temperature response trait
+TO:0002693 - gravity response trait ","Os03g0356700
+"
+"GO:0016788 - hydrolase activity, acting on ester bonds
+GO:0006629 - lipid metabolic process  ","Os03g0365000
+"
+"GO:0006629 - lipid metabolic process
+GO:0016788 - hydrolase activity, acting on ester bonds  ","Os03g0365800
+"
+"GO:0006629 - lipid metabolic process
+GO:0016788 - hydrolase activity, acting on ester bonds  ","Os03g0365900
+"
+"GO:0046872 - metal ion binding
+GO:0003993 - acid phosphatase activity  ","Os03g0568900
+"
+"GO:0030162 - regulation of proteolysis
+GO:0004867 - serine-type endopeptidase inhibitor activity  ","Os03g0610650
+"
+"GO:0015171 - amino acid transmembrane transporter activity
+GO:0007126 - meiosis
+GO:0016021 - integral to membrane  ","Os03g0654400
+"
+"GO:0005488 - binding
+GO:0008152 - metabolic process
+GO:0009535 - chloroplast thylakoid membrane
+GO:0009536 - plastid
+GO:0010304 - PSII associated light-harvesting complex II catabolic process
+GO:0015996 - chlorophyll catabolic process
+GO:0016491 - oxidoreductase activity
+GO:0034256 - chlorophyll(ide) b reductase activity
+GO:0055114 - oxidation reduction TO:0000326 - leaf color ","Os03g0654600
+"
+"GO:0005829 - cytosol
+GO:0006094 - gluconeogenesis
+GO:0004347 - glucose-6-phosphate isomerase activity
+GO:0006096 - glycolysis  ","Os03g0776000
+"
+"GO:0006596 - polyamine biosynthetic process
+GO:0009651 - response to salt stress TO:0006001 - salt tolerance ","Os03g0654900
+"
+"GO:0047800 - cysteamine dioxygenase activity  ","Os03g0654700
+"
+"GO:0004721 - phosphoprotein phosphatase activity
+GO:0046872 - metal ion binding  ","Os03g0832400
+"
+"GO:0008061 - chitin binding TO:0000432 - temperature response trait ","Os04g0173800
+"
+"GO:0006457 - protein folding
+GO:0055074 - calcium ion homeostasis
+GO:0005886 - plasma membrane
+GO:0046686 - response to cadmium ion
+GO:0005739 - mitochondrion
+GO:0009507 - chloroplast
+GO:0006979 - response to oxidative stress
+GO:0009651 - response to salt stress
+GO:0005773 - vacuole
+GO:0005509 - calcium ion binding
+GO:0005783 - endoplasmic reticulum  ","Os03g0832200
+"
+"GO:0005730 - nucleolus  ","Os03g0831800
+"
+"GO:0006355 - regulation of transcription, DNA-dependent
+GO:0003677 - DNA binding  ","Os03g0832000
+"
+"GO:0009555 - pollen development
+GO:0010152 - pollen maturation TO:0000437 - male sterility PO:0009073 - stigma 
+PO:0001007 - pollen development stage","Os04g0137201
+"
+"GO:0009538 - photosystem I reaction center
+GO:0015979 - photosynthesis TO:0000207 - plant height
+TO:0000346 - tiller number
+TO:0000396 - grain yield
+TO:0000326 - leaf color
+TO:0000495 - chlorophyll content
+TO:0000316 - photosynthetic ability PO:0025034 - leaf","Os03g0778100
+"
+"GO:0010025 - wax biosynthetic process
+GO:0010166 - wax metabolic process
+GO:0016747 - transferase activity, transferring acyl groups other than amino-acyl groups
+GO:0042761 - very-long-chain fatty acid biosynthetic process  ","Os04g0611200
+"
+"GO:0009685 - gibberellin metabolic process
+GO:0009899 - ent-kaurene synthase activity
+GO:0000287 - magnesium ion binding
+GO:0009686 - gibberellin biosynthetic process
+GO:0005739 - mitochondrion
+GO:0008152 - metabolic process
+GO:0009507 - chloroplast
+GO:0009536 - plastid TO:0002675 - gibberellic acid content
+TO:0000357 - growth and development trait
+TO:0000599 - enzyme activity ","Os04g0611800
+"
+"GO:0000145 - exocyst
+GO:0006887 - exocytosis  ","Os05g0369900
+"
+"GO:0006887 - exocytosis
+GO:0000145 - exocyst  ","Os05g0369300
+"
+"GO:0006887 - exocytosis
+GO:0000145 - exocyst  ","Os05g0369500
+"
+"GO:0000145 - exocyst
+GO:0006887 - exocytosis  ","Os05g0369100
+"
+"GO:0000145 - exocyst
+GO:0006887 - exocytosis  ","Os05g0369700
+"
+"GO:0016021 - integral to membrane
+GO:0005509 - calcium ion binding  ","Os04g0611400
+"
+"  PO:0009049 - inflorescence","Os04g0384800
+"
+"GO:0009813 - flavonoid biosynthetic process
+GO:0016747 - transferase activity, transferring acyl groups other than amino-acyl groups
+GO:0009058 - biosynthetic process
+GO:0009416 - response to light stimulus TO:0000707 - pericarp color
+TO:0000075 - light sensitivity ","Os05g0212900
+"
+"GO:0010266 - response to vitamin B1
+GO:0016705 - oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0009555 - pollen development
+GO:0046688 - response to copper ion
+GO:0005886 - plasma membrane
+GO:0009611 - response to wounding
+GO:0009808 - lignin metabolic process
+GO:0009807 - lignan biosynthetic process
+GO:0009699 - phenylpropanoid biosynthetic process
+GO:0006952 - defense response
+GO:0020037 - heme binding
+GO:0040007 - growth
+GO:0005794 - Golgi apparatus
+GO:0009506 - plasmodesma
+GO:0009505 - plant-type cell wall
+GO:0005783 - endoplasmic reticulum
+GO:0005774 - vacuolar membrane
+GO:0005506 - iron ion binding
+GO:0004497 - monooxygenase activity TO:0000021 - copper sensitivity
+TO:0000731 - lignin content
+TO:0000733 - lignin biosynthesis trait
+TO:0000112 - disease resistance ","Os05g0320700
+"
+"GO:0009058 - biosynthetic process
+GO:0016747 - transferase activity, transferring acyl groups other than amino-acyl groups  ","Os05g0212500
+"
+"GO:0016746 - transferase activity, transferring acyl groups
+GO:0008152 - metabolic process  ","Os05g0212600
+"
+"GO:0009651 - response to salt stress
+GO:0008295 - spermidine biosynthetic process
+GO:0006597 - spermine biosynthetic process
+GO:0006596 - polyamine biosynthetic process
+GO:0006557 - S-adenosylmethioninamine biosynthetic process
+GO:0005829 - cytosol
+GO:0004014 - adenosylmethionine decarboxylase activity TO:0006001 - salt tolerance ","Os05g0141800
+"
+"GO:0016829 - lyase activity
+GO:0009536 - plastid
+GO:0008152 - metabolic process
+GO:0009899 - ent-kaurene synthase activity
+GO:0009685 - gibberellin metabolic process
+GO:0006952 - defense response
+GO:0000287 - magnesium ion binding
+GO:0009753 - response to jasmonic acid stimulus
+GO:0009507 - chloroplast TO:0000207 - plant height
+TO:0000357 - growth and development trait
+TO:0000599 - enzyme activity
+TO:0000172 - jasmonic acid sensitivity
+TO:0002675 - gibberellic acid content PO:0009005 - root","Os04g0612000
+"
+"GO:0000287 - magnesium ion binding
+GO:0006952 - defense response
+GO:0016829 - lyase activity
+GO:0008152 - metabolic process  ","Os04g0611700
+"
+"GO:0006351 - transcription, DNA-dependent
+GO:0005634 - nucleus
+GO:0003700 - transcription factor activity
+GO:0003677 - DNA binding  ","Os04g0398000
+"
+"GO:0005773 - vacuole
+GO:0006508 - proteolysis
+GO:0008234 - cysteine-type peptidase activity  ","Os05g0310500
+"
+"GO:0005975 - carbohydrate metabolic process
+GO:0008422 - beta-glucosidase activity  ","Os05g0366000
+"
+"GO:0005975 - carbohydrate metabolic process
+GO:0008422 - beta-glucosidase activity  ","Os05g0366600
+"
+"GO:0005975 - carbohydrate metabolic process
+GO:0008422 - beta-glucosidase activity  ","Os05g0366800
+"
+"GO:0043621 - protein self-association
+GO:0006952 - defense response
+GO:0005887 - integral to plasma membrane
+GO:0005375 - copper ion transmembrane transporter activity
+GO:0051119 - sugar transmembrane transporter activity  ","Os05g0424700
+"
+"GO:0016021 - integral to membrane
+GO:0009860 - pollen tube growth
+GO:0046713 - boron transport
+GO:0009846 - pollen germination
+GO:0005452 - inorganic anion exchanger activity
+GO:0009566 - fertilization TO:0000421 - pollen fertility ","Os05g0176800
+"
+"GO:0003725 - double-stranded RNA binding
+GO:0004525 - ribonuclease III activity
+GO:0005634 - nucleus
+GO:0030422 - production of siRNA involved in RNA interference
+GO:0031053 - primary microRNA processing
+GO:0031054 - pre-microRNA processing  ","Os05g0307400
+"
+"GO:0005576 - extracellular region
+GO:0008810 - cellulase activity
+GO:0030245 - cellulose catabolic process
+GO:0030246 - carbohydrate binding  ","Os05g0212300
+"
+"  PO:0009066 - anther","Os11g0644000
+"
+"  ","Os11g0644500
+"
+"GO:0007275 - multicellular organismal development TO:0000089 - panicle type
+TO:0000040 - panicle length
+TO:0002759 - grain number
+TO:0000050 - inflorescence branching PO:0009049 - inflorescence","Os11g0235200
+"
+"GO:0005634 - nucleus
+GO:0005524 - ATP binding
+GO:0006355 - regulation of transcription, DNA-dependent
+GO:0016818 - hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+GO:0016563 - transcription activator activity
+GO:0006351 - transcription, DNA-dependent  ","Os12g0484900
+"
+"GO:0006396 - RNA processing
+GO:0030529 - ribonucleoprotein complex
+GO:0019013 - viral nucleocapsid
+GO:0005634 - nucleus TO:0000439 - fungal disease resistance ","Os11g0657300
+"
+"GO:0009507 - chloroplast  ","Os10g0434200
+"
+"GO:0009507 - chloroplast  ","Os10g0434000
+"
+"GO:0016021 - integral to membrane  ","Os11g0195600
+"
+"GO:0015171 - amino acid transmembrane transporter activity
+GO:0016021 - integral to membrane  ","Os10g0437100
+"
+"GO:0005507 - copper ion binding
+GO:0005739 - mitochondrion
+GO:0009733 - response to auxin stimulus
+GO:0009651 - response to salt stress
+GO:0010038 - response to metal ion
+GO:0048046 - apoplast
+GO:0046274 - lignin catabolic process TO:0000163 - auxin sensitivity
+TO:0006001 - salt tolerance
+TO:0000034 - chromium sensitivity ","Os10g0437400
+"
+"GO:0048316 - seed development
+GO:0042742 - defense response to bacterium
+GO:0010229 - inflorescence development
+GO:0009414 - response to water deprivation
+GO:0005524 - ATP binding
+GO:0004674 - protein serine/threonine kinase activity
+GO:0050832 - defense response to fungus TO:0000276 - drought tolerance
+TO:0000621 - inflorescence development trait
+TO:0000653 - seed development trait
+TO:0000175 - bacterial blight disease resistance
+TO:0000074 - blast disease PO:0001083 - inflorescence development stage 
+PO:0001170 - seed development stage 
+PO:0009010 - seed 
+PO:0009049 - inflorescence","Os10g0431900
+"
+"GO:0005524 - ATP binding
+GO:0004674 - protein serine/threonine kinase activity
+GO:0016021 - integral to membrane  ","Os10g0375000
+"
+"GO:0009011 - starch synthase activity
+GO:0009501 - amyloplast
+GO:0009507 - chloroplast
+GO:0019252 - starch biosynthetic process  ","Os10g0437600
+"
+"GO:0004806 - triacylglycerol lipase activity
+GO:0005886 - plasma membrane
+GO:0006629 - lipid metabolic process
+GO:0009611 - response to wounding
+GO:0009693 - ethylene biosynthetic process
+GO:0009867 - jasmonic acid mediated signaling pathway
+GO:0010618 - aerenchyma formation
+GO:0042742 - defense response to bacterium TO:0000175 - bacterial blight disease resistance
+TO:0002668 - jasmonic acid content
+TO:0002670 - momilactone A content
+TO:0000172 - jasmonic acid sensitivity ","Os11g0195500
+"
+"GO:0010150 - leaf senescence
+GO:0008483 - transaminase activity
+GO:0030170 - pyridoxal phosphate binding
+GO:0009414 - response to water deprivation
+GO:0006979 - response to oxidative stress
+GO:0008152 - metabolic process
+GO:0009651 - response to salt stress
+GO:0080134 - regulation of response to stress TO:0000249 - leaf senescence
+TO:0006001 - salt tolerance
+TO:0000276 - drought tolerance
+TO:0002657 - oxidative stress PO:0001054 - 4 leaf senescence stage ","Os05g0475400"
+"GO:0005509 - calcium ion binding  ","Os05g0491000
+Rap ( IRGSP 1.0 / Build5	)"
+"GO:0043562 - cellular response to nitrogen levels  ","Os05g0491200
+Rap ( IRGSP 1.0 / Build5	)"
+"GO:0010857 - calcium-dependent protein kinase activity  PO:0009029 - stamen 
+PO:0009049 - inflorescence","Os05g0491900
+Rap ( IRGSP 1.0 / Build5	)"
+"GO:0005886 - plasma membrane
+GO:0009612 - response to mechanical stimulus
+GO:0005509 - calcium ion binding
+GO:0005634 - nucleus  ","Os05g0491100
+Rap ( IRGSP 1.0 / Build5	)"
+"GO:0006810 - transport
+GO:0005886 - plasma membrane
+GO:0022857 - transmembrane transporter activity
+GO:0016021 - integral to membrane  ","Os06g0105700
+Rap ( IRGSP 1.0 / Build5	)"
+"GO:0005737 - cytoplasm
+GO:0008168 - methyltransferase activity
+GO:0006479 - protein amino acid methylation  ","Os06g0105500
+Rap ( IRGSP 1.0 / Build5	)"
+"  PO:0009066 - anther ","Os06g0107000
+Rap ( IRGSP 1.0 / Build5	)"
+"  	PO:0009066 - anther ","Os06g0114900
+Rap ( IRGSP 1.0 / Build5	)"
+"GO:0005783 - endoplasmic reticulum
+GO:0009723 - response to ethylene stimulus
+GO:0010104 - regulation of ethylene mediated signaling pathway
+GO:0016021 - integral to membrane
+GO:0031397 - negative regulation of protein ubiquitination TO:0000173 - ethylene sensitivity ","Os06g0115200
+Rap ( IRGSP 1.0 / Build5	)"
+"GO:0000062 - acyl-CoA binding
+GO:0005829 - cytosol
+GO:0009409 - response to cold
+GO:0009611 - response to wounding
+GO:0050832 - defense response to fungus TO:0000303 - cold tolerance
+TO:0000074 - blast disease PO:0007010 - whole plant fruit ripening stage 
+PO:0025034 - leaf ","Os06g0115300
+Rap ( IRGSP 1.0 / Build5	)"
+"GO:0004784 - superoxide dismutase activity
+GO:0009507 - chloroplast
+GO:0009651 - response to salt stress
+GO:0046688 - response to copper ion
+GO:0046872 - metal ion binding TO:0000021 - copper sensitivity
+TO:0006001 - salt tolerance ","Os06g0115400
+Rap ( IRGSP 1.0 / Build5	)"
+"GO:0005794 - Golgi apparatus
+GO:0010119 - regulation of stomatal movement
+GO:0046873 - metal ion transmembrane transporter activity
+GO:0043682 - copper-transporting ATPase activity
+GO:0009873 - ethylene mediated signaling pathway
+GO:0046688 - response to copper ion
+GO:0016021 - integral to membrane TO:0000021 - copper sensitivity ","Os06g0665800
+Rap ( IRGSP 1.0 / Build5	)	"
+"GO:0044403 - symbiosis, encompassing mutualism through parasitism
+GO:0005634 - nucleus
+GO:0009620 - response to fungus
+GO:0004683 - calmodulin-dependent protein kinase activity  ","Os06g0115600
+Rap ( IRGSP 1.0 / Build5	)	"
+"GO:0016021 - integral to membrane
+GO:0010106 - cellular response to iron ion starvation
+GO:0006754 - ATP biosynthetic process
+GO:0009651 - response to salt stress
+GO:0046872 - metal ion binding
+GO:0010167 - response to nitrate
+GO:0005524 - ATP binding
+GO:0008553 - hydrogen-exporting ATPase activity, phosphorylative mechanism
+GO:0005886 - plasma membrane TO:0000224 - iron sensitivity
+TO:0006001 - salt tolerance ","Os07g0191200"
+"GO:0005739 - mitochondrion  ","Os06g0678650"
+"GO:0015087 - cobalt ion transmembrane transporter activity
+GO:0046872 - metal ion binding
+GO:0016021 - integral to membrane
+GO:0015099 - nickel ion transmembrane transporter activity  ","Os06g0116400"
+"GO:0005524 - ATP binding
+GO:0006200 - ATP catabolic process
+GO:0016020 - membrane
+GO:0016887 - ATPase activity  ","Os07g0191600"
+"GO:0034220 - ion transmembrane transport
+GO:0006813 - potassium ion transport
+GO:0005221 - intracellular cyclic nucleotide activated cation channel activity
+GO:0006816 - calcium ion transport  ","Os06g0527300"
+"GO:0016554 - cytidine to uridine editing
+GO:0005739 - mitochondrion  ","Os06g0116600"
+"GO:0030154 - cell differentiation TO:0000050 - inflorescence branching
+TO:0000051 - stem strength
+TO:0000052 - primary branching of inflorescence
+TO:0000068 - lodging incidence
+TO:0000089 - panicle type
+TO:0000339 - stem thickness
+TO:0000371 - yield trait
+TO:0000456 - spikelet number
+TO:0000499 - flower anatomy and morphology trait
+TO:0002639 - shoot branching
+TO:0002759 - grain number PO:0009049 - inflorescence 
+PO:0009082 - spikelet floret ","Os06g0665400"
+"GO:0004161 - dimethylallyltranstransferase activity
+GO:0005739 - mitochondrion
+GO:0006744 - ubiquinone biosynthetic process
+GO:0008299 - isoprenoid biosynthetic process
+GO:0009507 - chloroplast
+GO:0009790 - embryonic development
+GO:0046872 - metal ion binding
+GO:0050347 - trans-octaprenyltranstransferase activity  ","Os06g0678200"
+"GO:0047652 - allantoate deiminase activity
+GO:0046872 - metal ion binding
+GO:0008237 - metallopeptidase activity
+GO:0000256 - allantoin catabolic process
+GO:0015996 - chlorophyll catabolic process
+GO:0006144 - purine base metabolic process
+GO:0010136 - ureide catabolic process
+GO:0005783 - endoplasmic reticulum TO:0000011 - nitrogen sensitivity ","Os06g0665500"
+"GO:0005737 - cytoplasm
+GO:0009738 - abscisic acid mediated signaling
+GO:0004864 - phosphoprotein phosphatase inhibitor activity
+GO:0010427 - abscisic acid binding
+GO:0005829 - cytosol
+GO:0005634 - nucleus  PO:0009009 - plant embryo ","Os06g0527800"
+"GO:0005737 - cytoplasm
+GO:0009738 - abscisic acid mediated signaling
+GO:0004864 - phosphoprotein phosphatase inhibitor activity
+GO:0010427 - abscisic acid binding
+GO:0005829 - cytosol
+GO:0005634 - nucleus  PO:0009009 - plant embryo ","Os06g0528300"
+"GO:0005737 - cytoplasm  ","Os08g0226000"
+"GO:0005737 - cytoplasm
+GO:0009408 - response to heat TO:0000259 - heat tolerance ","Os08g0226400"
+"   PO:0009066 - anther ","Os08g0130000"
+"  PO:0009066 - anther ","Os08g0496200"
+"GO:0005524 - ATP binding
+GO:0004674 - protein serine/threonine kinase activity
+GO:0050832 - defense response to fungus
+GO:0042742 - defense response to bacterium TO:0000074 - blast disease
+TO:0000175 - bacterial blight disease resistance ","Os07g0538400"
+"GO:0048316 - seed development
+GO:0004674 - protein serine/threonine kinase activity
+GO:0005524 - ATP binding
+GO:0005886 - plasma membrane
+GO:0009611 - response to wounding
+GO:0045892 - negative regulation of transcription, DNA-dependent TO:0000653 - seed development trait PO:0001170 - seed development stage 
+PO:0009010 - seed ","Os07g0695300"
+"GO:0042743 - hydrogen peroxide metabolic process
+GO:0042742 - defense response to bacterium
+GO:0012501 - programmed cell death
+GO:0006952 - defense response
+GO:0031347 - regulation of defense response
+GO:0009687 - abscisic acid metabolic process
+GO:0009694 - jasmonic acid metabolic process
+GO:0010150 - leaf senescence
+GO:0005829 - cytosol
+GO:0006048 - UDP-N-acetylglucosamine biosynthetic process
+GO:0003977 - UDP-N-acetylglucosamine diphosphorylase activity TO:0000605 - hydrogen peroxide content
+TO:0000069 - variegated leaf
+TO:0000495 - chlorophyll content
+TO:0000249 - leaf senescence
+TO:0002668 - jasmonic acid content
+TO:0002667 - abscisic acid content
+TO:0000063 - mimic response
+TO:0000175 - bacterial blight disease resistance PO:0001054 - 4 leaf senescence stage ","Os08g0206900"
+"GO:0010043 - response to zinc ion
+GO:0006829 - zinc ion transport
+GO:0005385 - zinc ion transmembrane transporter activity
+GO:0016020 - membrane
+GO:0008270 - zinc ion binding
+GO:0046873 - metal ion transmembrane transporter activity
+GO:0030001 - metal ion transport
+GO:0016023 - cytoplasmic membrane-bounded vesicle
+GO:0005886 - plasma membrane
+GO:0016021 - integral to membrane TO:0000351 - zinc sensitivity
+ PO:0004013 - epidermal cell 
+PO:0005417 - phloem 
+PO:0009005 - root 
+PO:0009006 - shoot system ","Os08g0207500"
+"GO:0006813 - potassium ion transport
+GO:0016021 - integral to membrane
+GO:0030955 - potassium ion binding
+GO:0051365 - cellular response to potassium ion starvation
+GO:0015079 - potassium ion transmembrane transporter activity  ","Os08g0206400"
+"GO:0006636 - unsaturated fatty acid biosynthetic process
+GO:0004768 - stearoyl-CoA 9-desaturase activity
+GO:0005783 - endoplasmic reticulum
+GO:0009409 - response to cold
+GO:0042389 - omega-3 fatty acid desaturase activity
+GO:0016717 - oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0009941 - chloroplast envelope  ","Os07g0693800"
+"GO:0030599 - pectinesterase activity
+GO:0042545 - cell wall modification
+GO:0045330 - aspartyl esterase activity
+GO:0005618 - cell wall  ","Os08g0220400"
+"GO:0004664 - prephenate dehydratase activity
+GO:0009094 - L-phenylalanine biosynthetic process
+GO:0016597 - amino acid binding
+GO:0047769 - arogenate dehydratase activity
+GO:0009507 - chloroplast  ","Os07g0694600"
+"GO:0004601 - peroxidase activity
+GO:0020037 - heme binding
+GO:0046872 - metal ion binding
+GO:0006979 - response to oxidative stress  ","Os07g0694300"
+"GO:0003700 - transcription factor activity
+GO:0005634 - nucleus
+GO:0005737 - cytoplasm
+GO:0006350 - transcription
+GO:0006355 - regulation of transcription, DNA-dependent
+GO:0009414 - response to water deprivation
+GO:0009651 - response to salt stress
+GO:0009737 - response to abscisic acid stimulus
+GO:0016602 - CCAAT-binding factor complex
+GO:0043565 - sequence-specific DNA binding
+GO:0048578 - positive regulation of long-day photoperiodism, flowering TO:0000276 - drought tolerance
+TO:0000615 - abscisic acid sensitivity
+TO:0002616 - flowering time
+TO:0006001 - salt tolerance ","Os08g0496500"
+"GO:0005215 - transporter activity
+GO:0016021 - integral to membrane  ","Os07g0603800"
+"GO:0000139 - Golgi membrane
+GO:0009827 - plant-type cell wall modification
+GO:0015018 - galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase activity
+GO:0016021 - integral to membrane TO:0002649 - pesticide sensitivity ","Os07g0694400"
+"GO:0000156 - two-component response regulator activity
+GO:0005634 - nucleus
+GO:0006351 - transcription, DNA-dependent
+GO:0006355 - regulation of transcription, DNA-dependent
+GO:0007623 - circadian rhythm
+GO:0048511 - rhythmic process
+GO:0048573 - photoperiodism, flowering
+GO:0048579 - negative regulation of long-day photoperiodism, flowering TO:0000396 - grain yield
+TO:0000137 - days to heading
+TO:0002616 - flowering time
+TO:0000229 - photoperiod sensitivity
+TO:0000040 - panicle length
+ ","Os07g0695100"
+"GO:0005794 - Golgi apparatus
+GO:0016021 - integral to membrane
+GO:0016413 - O-acetyltransferase activity  ","Os07g0693600"
+"GO:0010229 - inflorescence development
+GO:0009790 - embryonic development
+GO:0009653 - anatomical structure morphogenesis
+GO:0080113 - regulation of seed growth
+GO:0020037 - heme binding
+GO:0016705 - oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0009960 - endosperm development
+GO:0004497 - monooxygenase activity TO:0000621 - inflorescence development trait
+TO:0000064 - embryo related trait
+TO:0000113 - giant embryo
+TO:0000575 - endosperm related trait
+TO:0000391 - seed size
+TO:0000396 - grain yield
+TO:0000397 - grain size PO:0001083 - inflorescence development stage 
+PO:0009089 - endosperm 
+PO:0009009 - plant embryo","Os07g0603700"
+"GO:0020037 - heme binding
+GO:0030955 - potassium ion binding
+GO:0042744 - hydrogen peroxide catabolic process
+GO:0005509 - calcium ion binding
+GO:0016688 - L-ascorbate peroxidase activity
+GO:0010332 - response to gamma radiation
+GO:0009409 - response to cold
+GO:0006979 - response to oxidative stress
+GO:0010310 - regulation of hydrogen peroxide metabolic process
+GO:0042742 - defense response to bacterium
+GO:0055114 - oxidation reduction
+GO:0046688 - response to copper ion
+GO:0009845 - seed germination
+GO:0009738 - abscisic acid mediated signaling
+GO:0009737 - response to abscisic acid stimulus
+GO:0004601 - peroxidase activity
+GO:0005737 - cytoplasm TO:0000303 - cold tolerance
+TO:0000175 - bacterial blight disease resistance
+TO:0000021 - copper sensitivity
+TO:0000615 - abscisic acid sensitivity
+TO:0002657 - oxidative stress PO:0007057 - 0 seed germination stage ","Os07g0694700"
+"GO:0006351 - transcription, DNA-dependent
+GO:0005634 - nucleus
+GO:0003677 - DNA binding  ","Os10g0182200"
+"GO:0003677 - DNA binding
+GO:0070449 - elongin complex
+GO:0003746 - translation elongation factor activity
+GO:0006368 - RNA elongation from RNA polymerase II promoter  ","Os10g0182100"
+"GO:0009507 - chloroplast
+GO:0009626 - plant-type hypersensitive response
+GO:0043531 - ADP binding
+GO:0070623 - regulation of thiamin biosynthetic process
+GO:0050776 - regulation of immune response
+GO:0008219 - cell death TO:0000112 - disease resistance ","Os10g0183000"
+"GO:0016021 - integral to membrane
+GO:0006810 - transport
+GO:0016036 - cellular response to phosphate starvation
+GO:0005777 - peroxisome TO:0000102 - phosphorus sensitivity PO:0009029 - stamen 
+PO:0009066 - anther ","Os09g0554000"
+"GO:0009733 - response to auxin stimulus
+GO:0055085 - transmembrane transport
+GO:0016021 - integral to membrane
+GO:0009735 - response to cytokinin stimulus TO:0000167 - cytokinin sensitivity
+TO:0000163 - auxin sensitivity ","Os09g0554300"
+"GO:0004252 - serine-type endopeptidase activity
+GO:0009507 - chloroplast
+GO:0070008 - serine-type exopeptidase activity  ","Os09g0475700"
+"GO:0000139 - Golgi membrane
+GO:0016021 - integral to membrane
+GO:0016757 - transferase activity, transferring glycosyl groups  ","Os10g0180000"
+"GO:0004185 - serine-type carboxypeptidase activity  ","	Os08g0560500"
+"GO:0005524 - ATP binding
+GO:0004674 - protein serine/threonine kinase activity
+GO:0005509 - calcium ion binding
+GO:0030247 - polysaccharide binding
+  ","Os10g0180800"
+"GO:0048508 - embryonic meristem development
+GO:0003677 - DNA binding
+GO:0045449 - regulation of transcription
+GO:0009790 - embryonic development  PO:0009009 - plant embryo ","Os08g0511200"
+"GO:0008270 - zinc ion binding
+GO:0003677 - DNA binding
+GO:0045449 - regulation of transcription
+GO:0005634 - nucleus
+GO:0006350 - transcription  ","Os08g0513700"
+"GO:0004674 - protein serine/threonine kinase activity
+GO:0009607 - response to biotic stimulus
+GO:0005524 - ATP binding
+GO:0042742 - defense response to bacterium TO:0000175 - bacterial blight disease resistance
+TO:0000236 - crop damage resistance
+TO:0000179 - biotic stress trait ","Os09g0471500"
+"GO:0004674 - protein serine/threonine kinase activity
+GO:0005524 - ATP binding  ","Os09g0471600"
+"GO:0005509 - calcium ion binding
+GO:0004674 - protein serine/threonine kinase activity
+GO:0005524 - ATP binding
+GO:0030247 - polysaccharide binding  ","Os09g0471800"
+"GO:0010287 - plastoglobule
+GO:0009535 - chloroplast thylakoid membrane
+GO:0009941 - chloroplast envelope
+GO:0015979 - photosynthesis
+GO:0009538 - photosystem I reaction center  ","Os08g0560900"
+"GO:0005886 - plasma membrane
+GO:0009620 - response to fungus  ","Os08g0511700"
+"GO:0009620 - response to fungus
+GO:0046872 - metal ion binding
+GO:0030001 - metal ion transport  ","Os08g0512200"
+"GO:0043621 - protein self-association
+GO:0005524 - ATP binding
+GO:0004674 - protein serine/threonine kinase activity
+GO:0005886 - plasma membrane
+GO:0006952 - defense response
+GO:0008061 - chitin binding
+GO:0010200 - response to chitin
+GO:0016021 - integral to membrane  ","Os09g0511000
+"
+"GO:0005634 - nucleus  ","Os09g0475400
+"
+"GO:0042282 - hydroxymethylglutaryl-CoA reductase activity
+GO:0016021 - integral to membrane
+GO:0015936 - coenzyme A metabolic process
+GO:0016104 - triterpenoid biosynthetic process
+GO:0005789 - endoplasmic reticulum membrane
+GO:0004420 - hydroxymethylglutaryl-CoA reductase (NADPH) activity
+GO:0016126 - sterol biosynthetic process
+GO:0019287 - isopentenyl diphosphate biosynthetic process, mevalonate pathway
+GO:0050661 - NADP or NADPH binding TO:0000432 - temperature response trait ","Os08g0512700
+"
+"GO:0003983 - UTP:glucose-1-phosphate uridylyltransferase activity
+GO:0005886 - plasma membrane
+GO:0009555 - pollen development
+GO:0009651 - response to salt stress
+GO:0016036 - cellular response to phosphate starvation
+GO:0046686 - response to cadmium ion
+GO:0052543 - callose deposition in cell wall  ","Os09g0553200
+"
+"GO:0004693 - cyclin-dependent protein kinase activity
+GO:0005524 - ATP binding
+GO:0005634 - nucleus
+GO:0005819 - spindle
+GO:0007067 - mitosis
+GO:0008353 - RNA polymerase II carboxy-terminal domain kinase activity
+GO:0009524 - phragmoplast
+GO:0051301 - cell division
+GO:0006468 - protein amino acid phosphorylation
+GO:0009737 - response to abscisic acid stimulus
+GO:0009651 - response to salt stress
+GO:0006970 - response to osmotic stress TO:0006001 - salt tolerance
+TO:0000615 - abscisic acid sensitivity ","Os08g0512600
+"
+"GO:0016709 - oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NADH or NADPH as one donor, and incorporation of one atom of oxygen
+GO:0016020 - membrane
+GO:0005506 - iron ion binding
+GO:0020037 - heme binding  PO:0009038 - palea 
+PO:0025034 - leaf 
+PO:0009037 - lemma","Os10g0317900
+"
+"GO:0009507 - chloroplast  ","Os10g0434200
+"
+"GO:0009507 - chloroplast  ","Os10g0434000
+"
+"  PO:0009066 - anther","Os10g0365300
+"
+"GO:0016021 - integral to membrane  ","Os11g0195600
+"
+"GO:0015171 - amino acid transmembrane transporter activity
+GO:0016021 - integral to membrane  ","Os10g0437100
+"
+"GO:0005507 - copper ion binding
+GO:0005739 - mitochondrion
+GO:0009733 - response to auxin stimulus
+GO:0009651 - response to salt stress
+GO:0010038 - response to metal ion
+GO:0048046 - apoplast
+GO:0046274 - lignin catabolic process TO:0000163 - auxin sensitivity
+TO:0006001 - salt tolerance
+TO:0000034 - chromium sensitivity ","Os10g0437400
+"
+"GO:0048316 - seed development
+GO:0042742 - defense response to bacterium
+GO:0010229 - inflorescence development
+GO:0009414 - response to water deprivation
+GO:0005524 - ATP binding
+GO:0004674 - protein serine/threonine kinase activity
+GO:0050832 - defense response to fungus TO:0000276 - drought tolerance
+TO:0000621 - inflorescence development trait
+TO:0000653 - seed development trait
+TO:0000175 - bacterial blight disease resistance
+TO:0000074 - blast disease PO:0001083 - inflorescence development stage 
+PO:0001170 - seed development stage 
+PO:0009010 - seed 
+PO:0009049 - inflorescence","Os10g0431900
+"
+"GO:0004553 - hydrolase activity, hydrolyzing O-glycosyl compounds
+GO:0046688 - response to copper ion
+GO:0050832 - defense response to fungus
+GO:0007015 - actin filament organization TO:0000074 - blast disease
+TO:0000021 - copper sensitivity ","Os10g0370500
+"
+"GO:0046872 - metal ion binding
+GO:0004721 - phosphoprotein phosphatase activity  ","Os10g0370000
+"
+"GO:0046685 - response to arsenic
+GO:0010038 - response to metal ion
+GO:0048046 - apoplast
+GO:0005507 - copper ion binding
+GO:0016722 - oxidoreductase activity, oxidizing metal ions
+GO:0046274 - lignin catabolic process
+GO:0046686 - response to cadmium ion TO:0000034 - chromium sensitivity ","Os10g0346300
+"
+"GO:0009664 - plant-type cell wall organization
+GO:0030243 - cellulose metabolic process
+GO:0045488 - pectin metabolic process
+GO:0051510 - regulation of unidimensional cell growth
+GO:0052386 - cell wall thickening TO:0000068 - lodging incidence
+TO:0000207 - plant height
+TO:0000051 - stem strength ","Os10g0371000
+"
+"GO:0010264 - myo-inositol hexakisphosphate biosynthetic process
+GO:0000166 - nucleotide binding
+GO:0006021 - inositol biosynthetic process
+GO:0042742 - defense response to bacterium
+GO:0050832 - defense response to fungus
+GO:0051607 - defense response to virus
+GO:0009408 - response to heat
+GO:0009791 - post-embryonic development
+GO:0009644 - response to high light intensity
+GO:0042542 - response to hydrogen peroxide
+GO:0008654 - phospholipid biosynthetic process
+GO:0004512 - inositol-3-phosphate synthase activity
+GO:0005737 - cytoplasm TO:0000064 - embryo related trait
+TO:0000488 - seed composition based quality trait ","Os10g0369900
+"
+"GO:0005524 - ATP binding
+GO:0004674 - protein serine/threonine kinase activity
+GO:0016021 - integral to membrane  ","Os10g0375000
+"
+"GO:0048653 - anther development
+GO:0048654 - anther morphogenesis
+GO:0017102 - methionyl glutamyl tRNA synthetase complex
+GO:0005739 - mitochondrion
+GO:0005829 - cytosol
+GO:0006424 - glutamyl-tRNA aminoacylation
+GO:0006425 - glutaminyl-tRNA aminoacylation
+GO:0004819 - glutamine-tRNA ligase activity
+GO:0004818 - glutamate-tRNA ligase activity
+GO:0005524 - ATP binding TO:0000214 - anther shape PO:0001004 - anther development stage","Os10g0369000
+"
+"GO:0009011 - starch synthase activity
+GO:0009501 - amyloplast
+GO:0009507 - chloroplast
+GO:0019252 - starch biosynthetic process  ","Os10g0437600
+"
+"GO:0010229 - inflorescence development
+GO:0006952 - defense response
+GO:0043531 - ADP binding TO:0000621 - inflorescence development trait PO:0001083 - inflorescence development stage","Os10g0370100
+"
+"GO:0004806 - triacylglycerol lipase activity
+GO:0005886 - plasma membrane
+GO:0006629 - lipid metabolic process
+GO:0009611 - response to wounding
+GO:0009693 - ethylene biosynthetic process
+GO:0009867 - jasmonic acid mediated signaling pathway
+GO:0010618 - aerenchyma formation
+GO:0042742 - defense response to bacterium TO:0000175 - bacterial blight disease resistance
+TO:0002668 - jasmonic acid content
+TO:0002670 - momilactone A content
+TO:0000172 - jasmonic acid sensitivity ","Os11g0195500
+"

@@ -1,3 +1,2 @@
 ## Bioinformatic
-# Usage:
-python predict_rice.py
+# Usage: python predict_rice.py
